@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{55C005EC-1A62-414E-9040-43D76957F180}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>LUYAHAN_IT202WM_LABACT2_MIDTERM</RootNamespace>
-    <AssemblyName>LUYAHAN_IT202WM_LABACT2_MIDTERM</AssemblyName>
+    <RootNamespace>Catacutan_IT201WM_LABACT2_MIDTERM</RootNamespace>
+    <AssemblyName>Catacutan_IT201WM_LABACT2_MIDTERM</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
